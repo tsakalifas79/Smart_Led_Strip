@@ -4,7 +4,7 @@
 
 // Arduino Beat Detector By Damian Peckett 2015
 // License: Public Domain.
-
+// Hello from Theo <3 
 // Our Global Sample Rate, 5000hz
 #define SAMPLEPERIODUS 200
 
